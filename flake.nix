@@ -43,6 +43,10 @@
       # and overlays.
       namespace = "snowfoundry";
     };
+
+    channels-config = {
+      allowUnfree = true;
+    };
     
     homes.modules = with inputs; [
       zenix.homeModules.zenix
