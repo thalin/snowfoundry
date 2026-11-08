@@ -1,5 +1,8 @@
 # snowfoundry
 
+**Status: slated for deletion.** Don't start new work here; it is stale (24.11 pins,
+Nov 2024 zenix lock) and will be removed.
+
 nix-darwin + home-manager config for one Mac, `javelin` (aarch64-darwin), user
 `thalin`. Built with Snowfall lib (namespace `snowfoundry`); everything is
 auto-discovered by directory. See the workspace rule
